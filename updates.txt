@@ -1,0 +1,6 @@
+Calculator
+Current Version: 1.4.2
+
+Updates:
+1. Author is added at the application file (executable).
+2. A new command called extra msg has been added so that the user can read more message.
