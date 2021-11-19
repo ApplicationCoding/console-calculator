@@ -1,6 +1,6 @@
 Calculator
-Current Version: 1.4.2
+Current Version: 1.5.0
 
 Updates:
-1. Author is added at the application file (executable).
-2. A new command called extra msg has been added so that the user can read more message.
+1. You can re-calculate for 3 times for this version (5x re-calculation will be available for v1.5.1).
+2. New certificate has been added.
