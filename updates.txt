@@ -1,6 +1,7 @@
 Calculator
-Current Version: 1.5.0
+Current Version: 1.5.1
 
 Updates:
-1. You can re-calculate for 3 times for this version (5x re-calculation will be available for v1.5.1).
-2. New certificate has been added.
+1. You can re-calculate for 4 times (For the stable version, the re-calculation amount will be 5).
+2. Messages for this app has been changed.
+3. Comments were added to make the code easier to navigate or understand.
