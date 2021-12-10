@@ -1,7 +1,9 @@
 Calculator
-Current Version: 1.5.1
+Current Version: 1.5.2
 
 Updates:
-1. You can re-calculate for 4 times (For the stable version, the re-calculation amount will be 5).
-2. Messages for this app has been changed.
-3. Comments were added to make the code easier to navigate or understand.
+1. Minor features were added.
+2. Some parts of the 'help' command messages were revised.
+3. New message on extra msg.
+4. Messages from 'how_to_clone.txt' were re-checked to make sure that they have proper spellings.
+5. Some messages printed by Console.Writelines were re-checked too.
