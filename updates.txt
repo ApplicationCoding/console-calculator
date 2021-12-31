@@ -1,9 +1,6 @@
 Calculator
-Current Version: 1.5.2
+Current Version: 1.5.3
 
 Updates:
-1. Minor features were added.
-2. Some parts of the 'help' command messages were revised.
-3. New message on extra msg.
-4. Messages from 'how_to_clone.txt' were re-checked to make sure that they have proper spellings.
-5. Some messages printed by Console.Writelines were re-checked too.
+1. Some Console.WriteLine(""); messages were changed.
+2. In the end, Calculator will only print that the user should type 'close' or press X to close the app.
