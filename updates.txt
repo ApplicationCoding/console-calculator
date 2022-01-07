@@ -1,6 +1,0 @@
-Calculator
-Current Version: 1.5.3
-
-Updates:
-1. Some Console.WriteLine(""); messages were changed.
-2. In the end, Calculator will only print that the user should type 'close' or press X to close the app.
