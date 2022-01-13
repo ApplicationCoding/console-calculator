@@ -1,0 +1,9 @@
+﻿In this file, you can see the new features and updates for this version of the application.
+
+1. Some Console.WriteLine() messages were changed.
+2. Code refinements.
+3. Files that does not improve the app was removed.
+4. The command called "updates" can now be seen at the "help" command.
+5. The "updates" command is now functioning.
+6. Update message printed by the "updates" command
+7. Replace 'about' with 'updates'

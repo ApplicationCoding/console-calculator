@@ -1,0 +1,5 @@
+﻿How to clone Calculator repository.
+
+1. Make sure you have Git Bash. If you do not have that software, download it from the official website.
+2. Paste: https://github.com/ApplicationCoding/calculator.git
+3. That's basically all of the steps!

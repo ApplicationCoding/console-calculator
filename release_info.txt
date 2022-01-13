@@ -1,0 +1,5 @@
+﻿Currently a console app.
+
+Current version: Calculator v.1.6.0 Alpha
+Release date: February 2, 2022
+Updates and new features: go to 'https://github.com/ApplicationCoding/calculator/' and see 'updates.txt' file.
