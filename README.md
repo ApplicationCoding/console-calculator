@@ -12,4 +12,6 @@ Updates:
 1. Some Console.WriteLine(""); messages were changed.
 2. In the end, Calculator will only print that the user should type 'close' or press X to close the app.
 
+Contributors: ApplicationCoding, and YojanProductions.
+
 Note: This repository has been recreated meaning there is another original repository for this app but it was deleted so this was the new repository.
