@@ -138,12 +138,13 @@ namespace Calculator
                 Console.WriteLine("extra msg = Lets you read more message by this app.");
                 Console.WriteLine("re-calculate = Allows you to re-calculate again without re-opening the app.");
                 Console.WriteLine("updates = See new features for the current version of the app.");
+                Console.WriteLine("operations = Lets the user see math operations that Calculator can perform.");
                 Console.WriteLine("exit = Closes this app.");
             }
 
             else if (endOptions == "about")
             {
-                Console.WriteLine("Current Version: Calculator v1.6.0 Beta");
+                Console.WriteLine("Current Version: Calculator v1.6.0");
             }
 
             else if (endOptions == "extra msg")
@@ -161,6 +162,15 @@ namespace Calculator
                 Console.WriteLine("Update message printed by the 'updates' command.");
                 Console.WriteLine("Replace 'about' with 'updates'");
                 Console.WriteLine("Change the title of the calculator window to 'Calculator' instead of file path of the app.");
+                Console.WriteLine("Add a file called 'how_to_see_documentation.txt'");
+                Console.WriteLine("New icon");
+                Console.WriteLine("New command called 'operations'");
+                Console.WriteLine("Renamed the file name 'how_to_see_documenation.txt' to 'how_to_see_documentation.txt'");
+            }
+
+            else if (endOptions == "operations")
+            {
+                Console.WriteLine("Addition, Subtraction, Multiplication, and Division");
             }
 
             // This will allow the user to re-calculate
@@ -298,12 +308,13 @@ namespace Calculator
                     Console.WriteLine("extra msg = Lets you read more message by this app.");
                     Console.WriteLine("re-calculate = Allows you to re-calculate again without re-opening the app.");
                     Console.WriteLine("updates = See new features for the current version of the app.");
+                    Console.WriteLine("operations = Lets the user see math operations that Calculator can perform.");
                     Console.WriteLine("exit = Closes this app.");
                 }
 
                 else if (SecondEndOptions == "about")
                 {
-                    Console.WriteLine("Current Version: Calculator v1.6.0 Beta");
+                    Console.WriteLine("Current Version: Calculator v1.6.0");
                 }
 
                 else if (SecondEndOptions == "updates")
@@ -316,8 +327,16 @@ namespace Calculator
                     Console.WriteLine("Update message printed by the 'updates' command.");
                     Console.WriteLine("Replace 'about' with 'updates'");
                     Console.WriteLine("Change the title of the calculator window to 'Calculator' instead of file path of the app.");
+                    Console.WriteLine("Add a file called 'how_to_see_documentation.txt'");
+                    Console.WriteLine("New icon");
+                    Console.WriteLine("New command called 'operations'");
+                    Console.WriteLine("Renamed the file name 'how_to_see_documenation.txt' to 'how_to_see_documentation.txt'");
                 }
 
+                else if (SecondEndOptions == "operations")
+                {
+                    Console.WriteLine("Addition, Subtraction, Multiplication, and Division");
+                }
 
                 // This will allow the user to re-calculate for the third time
                 else if (SecondEndOptions == "re-calculate")
@@ -454,12 +473,13 @@ namespace Calculator
                         Console.WriteLine("extra msg = Lets you read more message by this app.");
                         Console.WriteLine("re-calculate = Allows you to re-calculate again without re-opening the app.");
                         Console.WriteLine("updates = See new features for the current version of the app.");
+                        Console.WriteLine("operations = Lets the user see math operations that Calculator can perform.");
                         Console.WriteLine("exit = Closes this app.");
                     }
 
                     else if (ThirdEndOptions == "about")
                     {
-                        Console.WriteLine("Current Version: Calculator v1.6.0 Beta");
+                        Console.WriteLine("Current Version: Calculator v1.6.0");
                     }
 
                     else if (ThirdEndOptions == "updates")
@@ -472,6 +492,15 @@ namespace Calculator
                         Console.WriteLine("Update message printed by the 'updates' command.");
                         Console.WriteLine("Replace 'about' with 'updates'");
                         Console.WriteLine("Change the title of the calculator window to 'Calculator' instead of file path of the app.");
+                        Console.WriteLine("Add a file called 'how_to_see_documentation.txt'");
+                        Console.WriteLine("New icon");
+                        Console.WriteLine("New command called 'operations'");
+                        Console.WriteLine("Renamed the file name 'how_to_see_documenation.txt' to 'how_to_see_documentation.txt'");
+                    }
+
+                    else if (ThirdEndOptions == "operations")
+                    {
+                        Console.WriteLine("Addition, Subtraction, Multiplication, and Division");
                     }
 
                     // This will allow the user to re-calculate for the fourth time
@@ -609,12 +638,13 @@ namespace Calculator
                             Console.WriteLine("extra msg = Lets you read more message by this app.");
                             Console.WriteLine("re-calculate = Allows you to re-calculate again without re-opening the app.");
                             Console.WriteLine("updates = See new features for the current version of the app.");
+                            Console.WriteLine("operations = Lets the user see math operations that Calculator can perform.");
                             Console.WriteLine("exit = Closes this app.");
                         }
 
                         else if (FourthEndOptions == "about")
                         {
-                            Console.WriteLine("Current Version: Calculator v1.6.0 Beta");
+                            Console.WriteLine("Current Version: Calculator v1.6.0");
                         }
 
                         else if (FourthEndOptions == "updates")
@@ -627,6 +657,15 @@ namespace Calculator
                             Console.WriteLine("Update message printed by the 'updates' command.");
                             Console.WriteLine("Replace 'about' with 'updates'");
                             Console.WriteLine("Change the title of the calculator window to 'Calculator' instead of file path of the app.");
+                            Console.WriteLine("Add a file called 'how_to_see_documentation.txt'");
+                            Console.WriteLine("New icon");
+                            Console.WriteLine("New command called 'operations'");
+                            Console.WriteLine("Renamed the file name 'how_to_see_documenation.txt' to 'how_to_see_documentation.txt'");
+                        }
+
+                        else if (FourthEndOptions == "operations")
+                        {
+                            Console.WriteLine("Addition, Subtraction, Multiplication, and Division");
                         }
 
                         // This will allow the user to re-calculate for the fifth time
