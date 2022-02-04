@@ -7,7 +7,7 @@ Contributors: ApplicationCoding, and YojanProductions.
 
 **Documentation:** https://github.com/ApplicationCoding/calculator/wiki/Documentation
 
-The release date of Calculator v1.6.0 is moved to January 26, 2022.
+News: The development of Calculator v2.0 was moved to be released on March. The date is unconfirmed, yet.
 
 Current Version: 1.6.0
 
