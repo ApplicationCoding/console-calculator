@@ -7,6 +7,8 @@ Contributors: ApplicationCoding, and YojanProductions.
 
 **Documentation:** https://github.com/ApplicationCoding/calculator/wiki/Documentation
 
+![Calculator Screenshot](https://user-images.githubusercontent.com/76902392/152459883-8a6a9b68-f062-44a3-a122-0dec9fb2ac24.png)
+
 News: The development of Calculator v2.0 was moved to be released on March. The date is unconfirmed, yet. The development is also temporarily paused. The Discussion page is now open as well for questions and ideas. Calculator v1.6.1 is now in development.
 
 Current Version: 1.6.0
