@@ -9,7 +9,7 @@ Contributors: ApplicationCoding, and YojanProductions.
 
 ![Calculator Screenshot](https://user-images.githubusercontent.com/76902392/152459883-8a6a9b68-f062-44a3-a122-0dec9fb2ac24.png)
 
-News: The development of Calculator v2.0 was moved to be released on March. The date is unconfirmed, yet. The development is also temporarily paused. The Discussion page is now open as well for questions and ideas. Calculator v1.6.1 is now in development.
+News: Calculator's last version will be v1.6.0. The development of it is stopped as of February 15, 2022.
 
 Current Version: 1.6.0
 
