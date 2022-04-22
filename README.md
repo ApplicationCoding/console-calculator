@@ -1,4 +1,4 @@
-# Calculator
+# Console Calculator
 A calculator app exclusively made for Windows.
 
 Contributors: ApplicationCoding, and YojanProductions.
@@ -9,7 +9,7 @@ Contributors: ApplicationCoding, and YojanProductions.
 
 ![Calculator Screenshot](https://user-images.githubusercontent.com/76902392/152459883-8a6a9b68-f062-44a3-a122-0dec9fb2ac24.png)
 
-News: Calculator's last version will be v1.6.0. The development of it is stopped as of February 15, 2022. This repository will not be archived or deleted and will stay open to everyone that wants to try the software out. But, others can still continue to develop this app by using the pull request feature and the discussions page to discuss about that new feature. And, for those who wants to be a collaborator of this project, please post an issue for that.
+News: Console Calculator's last version will be v1.6.0. The development of it is stopped as of February 15, 2022. This repository will not be archived or deleted and will stay open to everyone that wants to try the software out. But, others can still continue to develop this app by using the pull request feature and the discussions page to discuss about that new feature. And, for those who wants to be a collaborator of this project, please post an issue for that.
 
 Current Version: 1.6.0
 
