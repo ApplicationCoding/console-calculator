@@ -154,18 +154,6 @@ namespace Calculator
 
             else if (endOptions == "updates")
             {
-                Console.WriteLine("Some Console.WriteLine() messages were changed.");
-                Console.WriteLine("Code refinements.");
-                Console.WriteLine("Files that does not improve the app was removed.");
-                Console.WriteLine("The command called 'updates' can now be seen at the 'help' command.");
-                Console.WriteLine("The 'updates' command is now functioning.");
-                Console.WriteLine("Update message printed by the 'updates' command.");
-                Console.WriteLine("Replace 'about' with 'updates'");
-                Console.WriteLine("Change the title of the calculator window to 'Calculator' instead of file path of the app.");
-                Console.WriteLine("Add a file called 'how_to_see_documentation.txt'");
-                Console.WriteLine("New icon");
-                Console.WriteLine("New command called 'operations'");
-                Console.WriteLine("Renamed the file name 'how_to_see_documenation.txt' to 'how_to_see_documentation.txt'");
             }
 
             else if (endOptions == "operations")
@@ -319,18 +307,6 @@ namespace Calculator
 
                 else if (SecondEndOptions == "updates")
                 {
-                    Console.WriteLine("Some Console.WriteLine() messages were changed.");
-                    Console.WriteLine("Code refinements.");
-                    Console.WriteLine("Files that does not improve the app was removed.");
-                    Console.WriteLine("The command called 'updates' can now be seen at the 'help' command.");
-                    Console.WriteLine("The 'updates' command is now functioning.");
-                    Console.WriteLine("Update message printed by the 'updates' command.");
-                    Console.WriteLine("Replace 'about' with 'updates'");
-                    Console.WriteLine("Change the title of the calculator window to 'Calculator' instead of file path of the app.");
-                    Console.WriteLine("Add a file called 'how_to_see_documentation.txt'");
-                    Console.WriteLine("New icon");
-                    Console.WriteLine("New command called 'operations'");
-                    Console.WriteLine("Renamed the file name 'how_to_see_documenation.txt' to 'how_to_see_documentation.txt'");
                 }
 
                 else if (SecondEndOptions == "operations")
@@ -484,18 +460,6 @@ namespace Calculator
 
                     else if (ThirdEndOptions == "updates")
                     {
-                        Console.WriteLine("Some Console.WriteLine() messages were changed.");
-                        Console.WriteLine("Code refinements.");
-                        Console.WriteLine("Files that does not improve the app was removed.");
-                        Console.WriteLine("The command called 'updates' can now be seen at the 'help' command.");
-                        Console.WriteLine("The 'updates' command is now functioning.");
-                        Console.WriteLine("Update message printed by the 'updates' command.");
-                        Console.WriteLine("Replace 'about' with 'updates'");
-                        Console.WriteLine("Change the title of the calculator window to 'Calculator' instead of file path of the app.");
-                        Console.WriteLine("Add a file called 'how_to_see_documentation.txt'");
-                        Console.WriteLine("New icon");
-                        Console.WriteLine("New command called 'operations'");
-                        Console.WriteLine("Renamed the file name 'how_to_see_documenation.txt' to 'how_to_see_documentation.txt'");
                     }
 
                     else if (ThirdEndOptions == "operations")
@@ -649,18 +613,6 @@ namespace Calculator
 
                         else if (FourthEndOptions == "updates")
                         {
-                            Console.WriteLine("Some Console.WriteLine() messages were changed.");
-                            Console.WriteLine("Code refinements.");
-                            Console.WriteLine("Files that does not improve the app was removed.");
-                            Console.WriteLine("The command called 'updates' can now be seen at the 'help' command.");
-                            Console.WriteLine("The 'updates' command is now functioning.");
-                            Console.WriteLine("Update message printed by the 'updates' command.");
-                            Console.WriteLine("Replace 'about' with 'updates'");
-                            Console.WriteLine("Change the title of the calculator window to 'Calculator' instead of file path of the app.");
-                            Console.WriteLine("Add a file called 'how_to_see_documentation.txt'");
-                            Console.WriteLine("New icon");
-                            Console.WriteLine("New command called 'operations'");
-                            Console.WriteLine("Renamed the file name 'how_to_see_documenation.txt' to 'how_to_see_documentation.txt'");
                         }
 
                         else if (FourthEndOptions == "operations")
