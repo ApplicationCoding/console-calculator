@@ -3,7 +3,7 @@ A calculator app exclusively made for Windows.
 
 Contributors: ApplicationCoding, YojanProductions, and MKilo24.
 
-**Download here:** https://github.com/ApplicationCoding/calculator/releases/tag/v1.6.0
+**Download here:** https://github.com/ApplicationCoding/calculator/releases/tag/v1.6.1
 
 **Documentation:** https://github.com/ApplicationCoding/calculator/wiki/Documentation
 
