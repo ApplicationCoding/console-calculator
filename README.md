@@ -9,7 +9,7 @@ Contributors: ApplicationCoding, YojanProductions, and MKilo24.
 
 ![Calculator Screenshot](https://user-images.githubusercontent.com/76902392/152459883-8a6a9b68-f062-44a3-a122-0dec9fb2ac24.png)
 
-News: Console Calculator v1.6.1 has been released!
+News: Console Calculator v1.6.2 is in development.
 
 Current Version: 1.6.1
 
