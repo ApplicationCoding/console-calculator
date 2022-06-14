@@ -144,16 +144,12 @@ namespace Calculator
 
             else if (endOptions == "about")
             {
-                Console.WriteLine("Current Version: Calculator v1.6.1 Alpha");
-            }
-
-            else if (endOptions == "extra msg")
-            {
-                Console.WriteLine("You can re-calculate for 5 times at this version.");
+                Console.WriteLine("Current Version: Calculator v1.6.2 Candidate");
             }
 
             else if (endOptions == "updates")
             {
+                Console.WriteLine("Please see 'new_features_and_updates.txt' for updates");
             }
 
             else if (endOptions == "operations")
@@ -302,11 +298,12 @@ namespace Calculator
 
                 else if (SecondEndOptions == "about")
                 {
-                    Console.WriteLine("Current Version: Calculator v1.6.1 Alpha");
+                    Console.WriteLine("Current Version: Calculator v1.6.2 Candidate");
                 }
 
                 else if (SecondEndOptions == "updates")
                 {
+                    Console.WriteLine("Please see 'new_features_and_updates.txt' for updates");
                 }
 
                 else if (SecondEndOptions == "operations")
@@ -455,11 +452,12 @@ namespace Calculator
 
                     else if (ThirdEndOptions == "about")
                     {
-                        Console.WriteLine("Current Version: Calculator v1.6.1 Alpha");
+                        Console.WriteLine("Current Version: Calculator v1.6.2 Candidate");
                     }
 
                     else if (ThirdEndOptions == "updates")
                     {
+                        Console.WriteLine("Please see 'new_features_and_updates.txt' for updates");
                     }
 
                     else if (ThirdEndOptions == "operations")
@@ -608,11 +606,12 @@ namespace Calculator
 
                         else if (FourthEndOptions == "about")
                         {
-                            Console.WriteLine("Current Version: Calculator v1.6.1 Alpha");
+                            Console.WriteLine("Current Version: Calculator v1.6.2 Candidate");
                         }
 
                         else if (FourthEndOptions == "updates")
                         {
+                            Console.WriteLine("Please see 'new_features_and_updates.txt' for updates");
                         }
 
                         else if (FourthEndOptions == "operations")
@@ -760,10 +759,6 @@ namespace Calculator
                             Console.ReadKey();
                         }
 
-                        else if (FourthEndOptions == "extra msg")
-                        {
-                            Console.WriteLine("You can re-calculate for 5 times at this version.");
-                        }
 
                         // If the user types 'close', the app will also close
                         else if (FourthEndOptions == "close")
@@ -778,11 +773,6 @@ namespace Calculator
                         Console.ReadKey();
                     }
 
-                    else if (ThirdEndOptions == "extra msg")
-                    {
-                        Console.WriteLine("You can re-calculate for 5 times at this version.");
-                    }
-
                     // If the user types 'close', the app will also close
                     else if (ThirdEndOptions == "close")
                     {
@@ -794,11 +784,6 @@ namespace Calculator
 
                     // This prevents the app from automatically closing
                     Console.ReadKey();
-                }
-
-                else if (SecondEndOptions == "extra msg")
-                {
-                    Console.WriteLine("You can re-calculate for 5 times at this version.");
                 }
 
                 // If the user types 'close', the app will also close
