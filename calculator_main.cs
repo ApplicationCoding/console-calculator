@@ -144,7 +144,7 @@ namespace Calculator
 
             else if (endOptions == "about")
             {
-                Console.WriteLine("Current Version: Calculator v1.6.2 Candidate");
+                Console.WriteLine("Current Version: Calculator v1.6.2");
             }
 
             else if (endOptions == "updates")
@@ -298,7 +298,7 @@ namespace Calculator
 
                 else if (SecondEndOptions == "about")
                 {
-                    Console.WriteLine("Current Version: Calculator v1.6.2 Candidate");
+                    Console.WriteLine("Current Version: Calculator v1.6.2");
                 }
 
                 else if (SecondEndOptions == "updates")
@@ -452,7 +452,7 @@ namespace Calculator
 
                     else if (ThirdEndOptions == "about")
                     {
-                        Console.WriteLine("Current Version: Calculator v1.6.2 Candidate");
+                        Console.WriteLine("Current Version: Calculator v1.6.2");
                     }
 
                     else if (ThirdEndOptions == "updates")
@@ -606,7 +606,7 @@ namespace Calculator
 
                         else if (FourthEndOptions == "about")
                         {
-                            Console.WriteLine("Current Version: Calculator v1.6.2 Candidate");
+                            Console.WriteLine("Current Version: Calculator v1.6.2");
                         }
 
                         else if (FourthEndOptions == "updates")
